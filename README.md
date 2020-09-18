@@ -16,6 +16,6 @@ The innovation of convolutional neural networks is the ability to automatically 
 
 In this tutorial, you will discover how convolutions work in the convolutional neural network.
 
-https://github.com/tograh/testrepository/3DTest.png
+https://lh3.googleusercontent.com/proxy/LbdN4rcQ-8Vco87Yq-jEdIztKu7sY70KZsYiqHjz6yMOC5ed_HsT3EmzgkIEMSt0hV-5phvlvt-6V36wAmUh8us4-aHwplMbdTmPwFA5UHLNl6swA1WiaXz8ec8bFZVUvZVeYL4TeQLf9uTCWMGpFxIHArjwKecDbW1onEDYQolBgUe0hw
 
 // Veysel TAVUKÇU - Computer Science Engineer
