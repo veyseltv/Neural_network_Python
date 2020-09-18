@@ -17,3 +17,4 @@ The innovation of convolutional neural networks is the ability to automatically 
 In this tutorial, you will discover how convolutions work in the convolutional neural network.
 
 
+// Veysel TAVUKÇU - Computer Science Engineer
