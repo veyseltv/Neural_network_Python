@@ -19,6 +19,7 @@ The innovation of convolutional neural networks is the ability to automatically 
 
 
 def simple_CNN(input_shape, num_classes):
+
     classifier = Sequential()
     # Step 1.1 Convulution Layer
     classifier.add(Convolution2D(filters=16, kernel_size=(7, 7), padding='same',
