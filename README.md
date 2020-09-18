@@ -14,9 +14,7 @@ A convolution is the simple application of a filter to an input that results in 
 
 The innovation of convolutional neural networks is the ability to automatically learn a large number of filters in parallel specific to a training dataset under the constraints of a specific predictive modeling problem, such as image classification. The result is highly specific features that can be detected anywhere on input images.
 
-In this tutorial, you will discover how convolutions work in the convolutional neural network.
-
 
 ![CNN Visualization jpg](https://user-images.githubusercontent.com/59453566/93585013-d4522380-f9ae-11ea-818e-bfbb2e60b3b3.jpeg)
 
-// Veysel TAVUKÇU - Computer Science Engineer
+
