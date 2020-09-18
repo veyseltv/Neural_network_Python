@@ -1,4 +1,4 @@
-# Neural_Network_Python
+# Convolution_Neural_Network_Python
 
-Neural network sample layer structure with python
+Convolution Neural network sample layer structure with python.
 
