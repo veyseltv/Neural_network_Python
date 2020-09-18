@@ -2,11 +2,11 @@
 
 Convolution Neural network sample layer structure with python.
 
-# ** KERAS **
+# KERAS
 
   Keras is an open-source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.
   
-# ** Convolution Neural Network (CNN) **
+# Convolution Neural Network (CNN)
 
   Convolutional layers are the major building blocks used in convolutional neural networks.
 
@@ -16,5 +16,7 @@ The innovation of convolutional neural networks is the ability to automatically 
 
 In this tutorial, you will discover how convolutions work in the convolutional neural network.
 
+
+![CNN Visualization jpg](https://user-images.githubusercontent.com/59453566/93585013-d4522380-f9ae-11ea-818e-bfbb2e60b3b3.jpeg)
 
 // Veysel TAVUKÇU - Computer Science Engineer
